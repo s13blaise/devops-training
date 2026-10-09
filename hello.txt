@@ -2,3 +2,4 @@ Hello GitHub!
 I am learning Linux, Git and GitHub with S13.
 My goal is to become a DevOps engineer.
 I have successfully connected Ubuntu to GitHub.
+I am learning how to use git pull.
